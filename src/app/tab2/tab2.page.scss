@@ -1,12 +1,15 @@
 ion-img{
 	width: 35vw;
-	display: block;
-	margin: auto;
+	/*display: block;*/
+	/*margin: auto;*/
 }
 table, td, tr, th{
 	border: 1px solid black;
 	text-align: left;
 }
-#datos_personales{
+ul{
+	float: right;
+}
+.datos{
 	background-color: #F0C5C5;
 }
